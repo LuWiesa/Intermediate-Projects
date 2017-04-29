@@ -1,0 +1,9 @@
+quotes = [
+	{author: "b", quote: "test"},
+	{author: "c", quote: "test1"},
+	{author: "d", quote: "test2"},
+	{author: "e", quote: "test3"},
+	{author: "f", quote: "test4"},
+	{author: "g", quote: "test5"},
+	]
+	
